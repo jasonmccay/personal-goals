@@ -6,3 +6,4 @@
 
 ##### Personal Improvement
 * https://medium.com/@chadfowler/how-to-be-patient-c882946bce72
+* https://medium.com/@rrhoover/blogging-is-the-new-resume-b90eec4f928
